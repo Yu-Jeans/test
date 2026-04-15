@@ -1,0 +1,6 @@
+../Core/Src/freertos.cpp:174:6:void MX_FREERTOS_Init()	1
+../Core/Src/freertos.cpp:235:6:void StartPMU_Task(void*)	14
+../Core/Src/freertos.cpp:318:6:void StartUartLoggingTask(void*)	5
+../Core/Src/freertos.cpp:364:6:void ProcessCommand(const char*)	31
+../Core/Src/freertos.cpp:489:6:void StartCommandTask(void*)	9
+../Core/Src/freertos.cpp:539:6:void StartADC_Task(void*)	6

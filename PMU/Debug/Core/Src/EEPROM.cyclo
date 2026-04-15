@@ -1,0 +1,4 @@
+../Core/Src/EEPROM.cpp:12:1:EEPROM24FC064::EEPROM24FC064(I2C_HandleTypeDef*, uint16_t)	1
+../Core/Src/EEPROM.cpp:15:6:bool EEPROM24FC064::Init()	2
+../Core/Src/EEPROM.cpp:27:6:bool EEPROM24FC064::SaveCalibration(CalibrationData_t*)	2
+../Core/Src/EEPROM.cpp:51:6:bool EEPROM24FC064::LoadCalibration(CalibrationData_t*)	1

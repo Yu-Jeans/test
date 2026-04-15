@@ -1,0 +1,8 @@
+../Core/Src/ADS131A04.cpp:12:1:ADS131A04IPBSR::ADS131A04IPBSR(SPI_HandleTypeDef*, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t)	1
+../Core/Src/ADS131A04.cpp:15:1:ADS131A04IPBSR::~ADS131A04IPBSR()	1
+../Core/Src/ADS131A04.cpp:17:6:void ADS131A04IPBSR::SpiFrameTransfer(uint32_t)	2
+../Core/Src/ADS131A04.cpp:44:6:bool ADS131A04IPBSR::Init()	2
+../Core/Src/ADS131A04.cpp:79:6:bool ADS131A04IPBSR::Send_UNLOCK()	1
+../Core/Src/ADS131A04.cpp:85:10:uint32_t ADS131A04IPBSR::GetRawValue(uint8_t)	2
+../Core/Src/ADS131A04.cpp:97:7:float ADS131A04IPBSR::GetVolt(uint8_t)	1
+../Core/Src/ADS131A04.cpp:106:6:void ADS131A04IPBSR::TriggerSync()	2
